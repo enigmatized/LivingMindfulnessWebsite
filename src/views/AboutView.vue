@@ -1,7 +1,8 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-  </div>
+    <a href="mailto:garrettpeuse@gmail.com">Send email</a> 
+    </div>
 </template>
 
 <style>
